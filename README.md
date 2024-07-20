@@ -83,6 +83,9 @@ pip install pyautogui
     ```
     
 3. **Run the Scripts**:
+    ```powershell
+    python file_name.py
+    ```
 
 ## Project Details
 
